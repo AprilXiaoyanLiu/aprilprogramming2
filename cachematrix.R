@@ -1,3 +1,8 @@
+## These two funcitons will set the matrix and calculate 
+## the inverse of it.
+
+## This makeMatrix will set up the matrix and it's inverse.
+
 makeMatrix <- function(x = numeric()) {
   ## set the value of the matrix
   inv <- NULL
